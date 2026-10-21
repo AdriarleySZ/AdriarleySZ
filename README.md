@@ -6,7 +6,7 @@
 
 <h1 align="center">ADRIARLEY <span>⚡</span></h1>
 
-<p align="center"><code>@EuSouEu223</code></p>
+<p align="center"><code>@AdriarleySZ</code></p>
 
 <p align="center">
   <a href="https://github.com/EuSouEu223">
