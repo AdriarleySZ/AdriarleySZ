@@ -21,6 +21,12 @@
 
 <img src="./assets/divider.svg" width="100%" alt="divisor">
 
+## // MINDSET
+
+<div align="center">
+  <img src="./assets/quote.svg" width="100%" alt="Frase de Stan Lee: Se você tem uma ideia que genuinamente acha boa, não deixe ninguém te convencer do contrário">
+</div>
+
 ## // BOOT LOG
 
 <div align="center">
@@ -76,13 +82,6 @@ Dev em aprendizado, focado em **Python**. Gosto de transformar ideia em projeto 
   <img src="https://img.shields.io/badge/ANIME-MODE-00e5ff?style=for-the-badge" alt="anime mode">
   <img src="https://img.shields.io/badge/GENRE-SHONEN-ffd166?style=for-the-badge" alt="shonen">
 </p>
-
-
-## // MINDSET
-
-<div align="center">
-  <img src="./assets/quote.svg" width="100%" alt="Frase de Stan Lee: Se você tem uma ideia que genuinamente acha boa, não deixe ninguém te convencer do contrário">
-</div>
 
 ## // CONECTE-SE
 
