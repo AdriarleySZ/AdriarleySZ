@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdriarleySZ&label=VISITAS&color=00e5ff&style=for-the-badge" alt="visitas">
   <img src="https://img.shields.io/github/followers/AdriarleySZ?label=SEGUIDORES&style=for-the-badge&color=3ddc97" alt="seguidores">
   <img src="https://img.shields.io/github/last-commit/AdriarleySZ/AdriarleySZ?label=ULTIMO%20COMMIT&style=for-the-badge&color=ffd166" alt="último commit">
 </p>
