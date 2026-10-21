@@ -4,6 +4,12 @@
   </a>
 </div>
 
+## // MINDSET
+
+<div align="center">
+  <img src="./assets/quote.svg" width="100%" alt="Frase de Stan Lee: Se você tem uma ideia que genuinamente acha boa, não deixe ninguém te convencer do contrário">
+</div>
+
 <h1 align="center">ADRIARLEY <span>⚡</span></h1>
 
 <p align="center"><code>@AdriarleySZ</code></p>
@@ -20,12 +26,6 @@
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="divisor">
-
-## // MINDSET
-
-<div align="center">
-  <img src="./assets/quote.svg" width="100%" alt="Frase de Stan Lee: Se você tem uma ideia que genuinamente acha boa, não deixe ninguém te convencer do contrário">
-</div>
 
 ## // BOOT LOG
 
